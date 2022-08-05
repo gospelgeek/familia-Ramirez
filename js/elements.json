@@ -103,6 +103,9 @@
         },
         {
             "data": { "id": "TioHerney", "source": "Manuel Salvador y Rosa Elena", "target": "Herney" }
+        },
+        {
+            "data": { "id": "TioJosé1", "source": "José", "target": "DanielR" }
         }
     ]
 }
