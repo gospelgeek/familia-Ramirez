@@ -7,6 +7,33 @@
             "data": { "id": "José" }
         },
         {
+            "data": { "id": "DanielR" }
+        },
+        {
+            "data": { "id": "Harold" }
+        },
+        {
+            "data": { "id": "HernánR" }
+        },
+        {
+            "data": { "id": "Oscar" }
+        },
+        {
+            "data": { "id": "Kenny" }
+        },
+        {
+            "data": { "id": "Fabián" }
+        },
+        {
+            "data": { "id": "Milena" }
+        },
+        {
+            "data": { "id": "Alexis" }
+        },
+        {
+            "data": { "id": "Freddy" }
+        },
+        {
             "data": { "id": "Rosa" }
         },
         {
@@ -76,6 +103,33 @@
         },
         {
             "data": { "id": "TioHerney", "source": "Manuel Salvador y Rosa Elena", "target": "Herney" }
+        }
+        {
+            "data": { "id": "TioJosé1", "source": "José", "target": "DanielR" }
+        }
+        {
+            "data": { "id": "TioJosé2", "source": "José", "target": "Harold" }
+        }
+        {
+            "data": { "id": "TioJosé3", "source": "José", "target": "HernanR" }
+        }
+        {
+            "data": { "id": "TioJosé4", "source": "José", "target": "Oscar" }
+        }
+        {
+            "data": { "id": "TioJosé5", "source": "José", "target": "Kenny" }
+        }
+        {
+            "data": { "id": "TioJosé6", "source": "José", "target": "Fabian" }
+        }
+        {
+            "data": { "id": "TioJosé7", "source": "José", "target": "Milena" }
+        }
+        {
+            "data": { "id": "TioJosé8", "source": "José", "target": "Alexis" }
+        }
+        {
+            "data": { "id": "TioJosé1", "source": "José", "target": "Freddy" }
         }
     ]
 }
