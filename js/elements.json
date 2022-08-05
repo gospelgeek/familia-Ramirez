@@ -31,6 +31,9 @@
             "data": { "id": "Cenelia" }
         },
         {
+            "data": { "id": "Pedro" }
+        },
+        {
             "data": { "id": "Luz Marina" }
         },
         {
@@ -54,6 +57,9 @@
             "data": { "id": "TiaLeonor", "source": "Manuel Salvador y Rosa Elena", "target": "Leonor" }
         },
         {
+            "data": { "id": "TiaNohelba", "source": "Manuel Salvador y Rosa Elena", "target": "Nohelba" }
+        },
+        {
             "data": { "id": "TiaRosalba", "source": "Manuel Salvador y Rosa Elena", "target": "Rosalba" }
         },
         {
@@ -61,9 +67,6 @@
         },
         {
             "data": { "id": "TioPedro", "source": "Manuel Salvador y Rosa Elena", "target": "Pedro" }
-        },
-        {
-            "data": { "id": "TiaNohelba", "source": "Manuel Salvador y Rosa Elena", "target": "Nohelba" }
         },
         {
             "data": { "id": "TiaCenelia", "source": "Manuel Salvador y Rosa Elena", "target": "Cenelia" }
