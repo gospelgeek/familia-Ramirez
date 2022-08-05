@@ -39,40 +39,40 @@
     ],
     "edges": [
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "José" }
+            "data": { "id": "TioJose", "source": "Manuel Salvador y Rosa Elena", "target": "José" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Rosa" }
+            "data": { "id": "TiaRosa", "source": "Manuel Salvador y Rosa Elena", "target": "Rosa" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Antonio" }
+            "data": { "id": "TioAntonio", "source": "Manuel Salvador y Rosa Elena", "target": "Antonio" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Esther" }
+            "data": { "id": "TiaEsther", "source": "Manuel Salvador y Rosa Elena", "target": "Esther" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Leonor" }
+            "data": { "id": "TiaLeonor", "source": "Manuel Salvador y Rosa Elena", "target": "Leonor" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Rosalba" }
+            "data": { "id": "TiaRosalba", "source": "Manuel Salvador y Rosa Elena", "target": "Rosalba" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Edelberto" }
+            "data": { "id": "TioEdelberto", "source": "Manuel Salvador y Rosa Elena", "target": "Edelberto" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Pedro" }
+            "data": { "id": "TioPedro", "source": "Manuel Salvador y Rosa Elena", "target": "Pedro" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Nohelba" }
+            "data": { "id": "TiaNohelba", "source": "Manuel Salvador y Rosa Elena", "target": "Nohelba" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Cenelia" }
+            "data": { "id": "TiaCenelia", "source": "Manuel Salvador y Rosa Elena", "target": "Cenelia" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Luz Marina" }
+            "data": { "id": "TiaLuzma", "source": "Manuel Salvador y Rosa Elena", "target": "Luz Marina" }
         },
         {
-            "data": { "id": "Abuelos", "source": "Manuel Salvador y Rosa Elena", "target": "Herney" }
+            "data": { "id": "TioHerney", "source": "Manuel Salvador y Rosa Elena", "target": "Herney" }
         }
     ]
 }
