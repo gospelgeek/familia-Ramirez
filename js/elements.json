@@ -107,15 +107,5 @@
         {
             "data": { "id": "TioJosé1", "source": "José", "target": "DanielR" }
         }
-        {
-            "data": { "id": "TioJosé2", "source": "José", "target": "Harold" }
-        }
-        {
-            "data": { "id": "TioJosé3", "source": "José", "target": "HernánR" }
-        }
-        {
-            "data": { "id": "TioJosé4", "source": "José", "target": "Oscar" }
-        }
-
     ]
 }
